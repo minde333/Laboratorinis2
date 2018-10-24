@@ -1,0 +1,9 @@
+C:\Users\Vartotojas\Desktop\L2_U2_10\bin\Debug\L2Data-Elektroluxas.csv
+C:\Users\Vartotojas\Desktop\L2_U2_10\bin\Debug\L2Data-SAMSUNGAS.csv
+C:\Users\Vartotojas\Desktop\L2_U2_10\bin\Debug\L2_U2_10.exe.config
+C:\Users\Vartotojas\Desktop\L2_U2_10\bin\Debug\L2_U2_10.exe
+C:\Users\Vartotojas\Desktop\L2_U2_10\bin\Debug\L2_U2_10.pdb
+C:\Users\Vartotojas\Desktop\L2_U2_10\obj\Debug\L2_U2_10.csprojAssemblyReference.cache
+C:\Users\Vartotojas\Desktop\L2_U2_10\obj\Debug\L2_U2_10.csproj.CoreCompileInputs.cache
+C:\Users\Vartotojas\Desktop\L2_U2_10\obj\Debug\L2_U2_10.exe
+C:\Users\Vartotojas\Desktop\L2_U2_10\obj\Debug\L2_U2_10.pdb
